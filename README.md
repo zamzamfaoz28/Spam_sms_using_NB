@@ -66,11 +66,12 @@ while True:
     response = input("Apakah Anda ingin memasukkan pesan lagi? (y/n): ")
     if response.lower() != 'y':
         break
+```
+---
 
-
-##** 👨‍💻 Author**
+## 👨‍💻 Author
 
 Zamzam Miftahul Faoz
 Final-year Informatics Student at Universitas Ahmad Dahlan
-LinkedIn
+LinkedIn : www.linkedin.com/in/zamzam-miftahul-faoz
 Email: zamzammiftahulfaoz@gmail.com
